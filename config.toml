@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://iplaycode.github.io/nav/"
 languageCode = "zh-CN"
 title = "WebStack网址导航 Hugo主题"
 theme = "webstack-hugo"

@@ -5,11 +5,11 @@ name = "Webstack Hugo theme"
 license = "MIT"
 licenselink = "https://github.com/iplaysoft/webstack-hugo/blob/master/LICENSE"
 description = "Webstack Hugo theme"
-homepage = "https://iplaysoft.github.io/"
+homepage = "https://iplaycode.github.io/nav/"
 tags = ["startpage", "webstack", "links", "nav"]
 features = []
 min_version = "0.4.12"
 
 [author]
   name = "iplaysoft"
-  homepage = "https://iplaysoft.github.io/"
+  homepage = "https://iplaycode.github.io/nav/"
